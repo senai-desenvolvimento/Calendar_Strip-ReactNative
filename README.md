@@ -1,0 +1,1 @@
+# senai-desenvolvimento-Calendar_Strip-ReactNative
